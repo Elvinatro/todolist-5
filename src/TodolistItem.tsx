@@ -1,5 +1,5 @@
 import {type ChangeEvent} from 'react'
-import type {FilterValues, Task} from './App'
+import type {FilterValues, Task} from './AppWithReducers.tsx'
 import Button from '@mui/material/Button';
 import "./App.css"
 import {CreateItemForm} from "./createItemForm.tsx";
